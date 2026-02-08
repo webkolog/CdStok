@@ -1,0 +1,60 @@
+c:\users\ali\documents\visual studio 2010\Projects\CdStok\CdStok\bin\Debug\CdStok.exe
+c:\users\ali\documents\visual studio 2010\Projects\CdStok\CdStok\bin\Debug\CdStok.pdb
+c:\users\ali\documents\visual studio 2010\Projects\CdStok\CdStok\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2010\Projects\CdStok\CdStok\obj\x86\Debug\CdStok.Properties.Resources.resources
+c:\users\ali\documents\visual studio 2010\Projects\CdStok\CdStok\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ali\documents\visual studio 2010\Projects\CdStok\CdStok\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ali\documents\visual studio 2010\Projects\CdStok\CdStok\obj\x86\Debug\CdStok.exe
+c:\users\ali\documents\visual studio 2010\Projects\CdStok\CdStok\obj\x86\Debug\CdStok.pdb
+c:\users\ali\documents\visual studio 2010\Projects\CdStok\CdStok\obj\x86\Debug\CdStok.frmGiris.resources
+c:\users\ali\documents\visual studio 2010\Projects\CdStok\CdStok\obj\x86\Debug\CdStok.frmKullaniciKayit.resources
+D:\Projects\CD Stok Projesi\CdStok\CdStok\obj\x86\Debug\CdStok.exe
+D:\Projects\CD Stok Projesi\CdStok\CdStok\obj\x86\Debug\CdStok.pdb
+D:\Projects\CD Stok Projesi\CdStok\CdStok\bin\Debug\CdStok.exe
+D:\Projects\CD Stok Projesi\CdStok\CdStok\bin\Debug\CdStok.pdb
+D:\Projects\CD Stok Projesi\CdStok\CdStok\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\CD Stok Projesi\CdStok\CdStok\obj\x86\Debug\CdStok.frmGiris.resources
+D:\Projects\CD Stok Projesi\CdStok\CdStok\obj\x86\Debug\CdStok.frmKullaniciKayit.resources
+D:\Projects\CD Stok Projesi\CdStok\CdStok\obj\x86\Debug\CdStok.Properties.Resources.resources
+D:\Projects\CD Stok Projesi\CdStok\CdStok\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\CD Stok Projesi\CdStok\CdStok\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\CD Stok Projesi\CdStok\CdStok\obj\x86\Debug\CdStok.frmCdStok.resources
+D:\Projects\CD Stok Projesi\CdStok\CdStok\obj\x86\Debug\CdStok.altFrmCdEkle.resources
+D:\Projects\CD Stok Projesi\CdStok\CdStok\bin\Debug\idautomation.linearbarcode.dll
+D:\Projects\CD Stok Projesi\CdStok\CdStok\bin\Debug\CdStok.exe.config
+D:\Projects\CD Stok Projesi\CdStok\CdStok\obj\x86\Debug\CdStok.altFrmCdDetay.resources
+D:\Projects\CD Stok Projesi\CdStok\CdStok\obj\x86\Debug\CdStok.altFrmCdDuzenle.resources
+D:\Projects\CD Stok Projesi\CdStok\CdStok\obj\x86\Debug\CdStok.altFrmDosyaYonet.resources
+D:\Projects\CD Stok Projesi\CdStok\CdStok\obj\x86\Debug\CdStok.altFrmDurumDegistir.resources
+D:\Projects\CD Stok Projesi\CdStok\CdStok\obj\x86\Debug\CdStok.Hakkinda.resources
+D:\Projects\CD Stok Projesi\CdStok\CdStok\obj\x86\Debug\CdStok.altFrmKullaniciEkle.resources
+D:\Projects\CD Stok Projesi\CdStok\CdStok\obj\x86\Debug\CdStok.altFrmKullaniciDuzenle.resources
+D:\Projects\CD Stok Projesi\CdStok\CdStok\obj\x86\Debug\CdStok.altFrmKutuDuzenle.resources
+D:\Projects\CD Stok Projesi\CdStok\CdStok\obj\x86\Debug\CdStok.altFrmYerDuzenle.resources
+D:\Projects\CD Stok Projesi\CdStok\CdStok\obj\x86\Debug\CdStok.altFrmSifreDegistir.resources
+C:\Users\Ali\Desktop\CdStok\CdStok\bin\Debug\CdStok.exe.config
+C:\Users\Ali\Desktop\CdStok\CdStok\obj\x86\Debug\CdStok.exe
+C:\Users\Ali\Desktop\CdStok\CdStok\obj\x86\Debug\CdStok.pdb
+C:\Users\Ali\Desktop\CdStok\CdStok\bin\Debug\CdStok.exe
+C:\Users\Ali\Desktop\CdStok\CdStok\bin\Debug\CdStok.pdb
+C:\Users\Ali\Desktop\CdStok\CdStok\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\CdStok\CdStok\obj\x86\Debug\CdStok.altFrmCdDetay.resources
+C:\Users\Ali\Desktop\CdStok\CdStok\obj\x86\Debug\CdStok.altFrmCdDuzenle.resources
+C:\Users\Ali\Desktop\CdStok\CdStok\obj\x86\Debug\CdStok.altFrmCdEkle.resources
+C:\Users\Ali\Desktop\CdStok\CdStok\obj\x86\Debug\CdStok.altFrmDosyaYonet.resources
+C:\Users\Ali\Desktop\CdStok\CdStok\obj\x86\Debug\CdStok.altFrmDurumDegistir.resources
+C:\Users\Ali\Desktop\CdStok\CdStok\obj\x86\Debug\CdStok.altFrmKullaniciDuzenle.resources
+C:\Users\Ali\Desktop\CdStok\CdStok\obj\x86\Debug\CdStok.altFrmKullaniciEkle.resources
+C:\Users\Ali\Desktop\CdStok\CdStok\obj\x86\Debug\CdStok.altFrmKutuDuzenle.resources
+C:\Users\Ali\Desktop\CdStok\CdStok\obj\x86\Debug\CdStok.altFrmSifreDegistir.resources
+C:\Users\Ali\Desktop\CdStok\CdStok\obj\x86\Debug\CdStok.altFrmYerDuzenle.resources
+C:\Users\Ali\Desktop\CdStok\CdStok\obj\x86\Debug\CdStok.frmCdStok.resources
+C:\Users\Ali\Desktop\CdStok\CdStok\obj\x86\Debug\CdStok.frmGiris.resources
+C:\Users\Ali\Desktop\CdStok\CdStok\obj\x86\Debug\CdStok.frmKullaniciKayit.resources
+C:\Users\Ali\Desktop\CdStok\CdStok\obj\x86\Debug\CdStok.Hakkinda.resources
+C:\Users\Ali\Desktop\CdStok\CdStok\obj\x86\Debug\CdStok.Properties.Resources.resources
+C:\Users\Ali\Desktop\CdStok\CdStok\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ali\Desktop\CdStok\CdStok\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ali\Desktop\Dene\CdStok\CdStok\bin\Debug\CdStok.exe.config
+C:\Users\Ali\Desktop\Dene\CdStok\CdStok\obj\x86\Debug\CdStok.exe
+C:\Users\Ali\Desktop\Dene\CdStok\CdStok\obj\x86\Debug\CdStok.pdb

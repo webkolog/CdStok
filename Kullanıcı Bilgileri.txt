@@ -1,0 +1,4 @@
+Kullanýcý Adý:	Ali
+Þifre:		123456
+
+Not: DB dosyasý exe dosyasýnýn yanýnda ismi CdStok.mdf
